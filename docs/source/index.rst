@@ -17,6 +17,7 @@ Contents
 --------
 
 .. toctree::
+   function_library.rst
 
    usage
    api
